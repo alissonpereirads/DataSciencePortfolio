@@ -69,3 +69,5 @@ Estou em busca de uma oportunidade de estágio na área de Ciência de Dados ou 
 ---
 
 Feito com ❤️ por [Alisson Pereira] | Estudante de Ciência de Dados e IA
+
+*Este projeto foi desenvolvido para fins educacionais e de portfólio, demonstrando a aplicação de técnicas de Ciência de Dados em um problema de negócio simulado.*
