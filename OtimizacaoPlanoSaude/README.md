@@ -1,6 +1,8 @@
 # Projeto de Machine Learning: Previsão de Custos de Plano de Saúde
 
-![Streamlit App Screenshot](URL_DA_SUA_SCREENSHOT)
+![Streamlit App Screenshot](https://raw.githubusercontent.com/alissonpereirads/DataSciencePortfolio/refs/heads/main/OtimizacaoPlanoSaude/calculdora_saude.jpg)
+
+
 *Interface do Web App interativo desenvolvido com Streamlit para previsão de custos.*
 
 ## Visão Geral
