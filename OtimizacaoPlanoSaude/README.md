@@ -110,12 +110,12 @@ Um aplicativo web interativo foi desenvolvido para permitir a previsão de custo
 
 
 
-## Autor
+Estou em busca de uma oportunidade de estágio na área de Ciência de Dados ou Inteligência Artificial. Se você gostou do meu trabalho ou tem alguma dúvida, sinta-se à vontade para entrar em contato:
 
-* **Alisson Pereira**
-* **LinkedIn:** [Alisson Pereira](https://www.linkedin.com/in/alisson-pereira-ds/)
-* **GitHub:** [alissonpereirads](https://github.com/alissonpereirads)
-
+LinkedIn: Alisson Pereira
+E-mail: alissonpereira.contato@gmail.com
+GitHub: alissonpereirads
+Feito com ❤️ por [Alisson Pereira] | Estudante de Ciência de Dados e IA
 ---
 
 *Este projeto foi desenvolvido para fins educacionais e de portfólio, demonstrando a aplicação de técnicas de Ciência de Dados em um problema de negócio simulado.*
